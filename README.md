@@ -51,3 +51,19 @@
 ```
 java -jar cli.jar
 ```
+
+## Author
+
+👤 **Tetradium Games Team**
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+## 📝 License
+
+This project is [LGPL-3](https://www.gnu.org/licenses/lgpl-3.0.html) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
