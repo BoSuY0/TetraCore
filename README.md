@@ -28,13 +28,6 @@
 </p>
 
 > Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
-> - Custom Item, Block, Entity
-> - Built-in AI framework
-> - Terra Generator
-> - Full Vanilla Command Support
-> - Full Item, Block, and Container Support
-> - Dynamic Lighting System
-> - Advanced Plugin Support
 > - More features to discover...
 
 ### 🏠 [Homepage](https://tetracore.com/)
@@ -66,4 +59,3 @@ Give a ⭐️ if this project helped you!
 This project is [LGPL-3](https://www.gnu.org/licenses/lgpl-3.0.html) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
