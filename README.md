@@ -30,8 +30,6 @@
 > Feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
 > - More features to discover...
 
-### 🏠 [Homepage](https://tetracore.com/)
-
 ## Install
 
 1. Make sure you have `JDK21` installed, if not [download from here](https://www.graalvm.org/downloads)
